@@ -1,2 +1,2 @@
 # ASP-NET
-temelden başlayarak ASP.NET örnekleri
+temelden başlayarak öğrenmeye çalıştığım ASP.NET örnekleri
