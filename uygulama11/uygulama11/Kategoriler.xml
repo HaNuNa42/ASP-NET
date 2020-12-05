@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kategoriler>
+	<Kategori Deger="1" Ad="Tablet" />
+	<Kategori Deger="2" Ad="Oyun Konsolu" />
+	<Kategori Deger="3" Ad="Kasa" />
+	<Kategori Deger="4" Ad="Laptop" />
+	<Kategori Deger="5" Ad="Notebook" />
+</Kategoriler>
