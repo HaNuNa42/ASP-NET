@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kategoriler>
+	<Kategori Deger="1" Ad="Bilgisayar" />
+	<Kategori Deger="2" Ad="Giyim" />
+	<Kategori Deger="3" Ad="Takı" />
+	<Kategori Deger="4" Ad="Telefon" />
+	<Kategori Deger="5" Ad="Mücevher" />
+	<Kategori Deger="6" Ad="Elektronik" />
+</Kategoriler>
